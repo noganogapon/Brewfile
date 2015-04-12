@@ -4,6 +4,10 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install appcleaner
+cask install dropbox
+cask install evernote
+cask install kindle
 
 ## rcmdnk/file
 tap rcmdnk/file
