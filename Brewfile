@@ -5,9 +5,11 @@
 tap caskroom/cask
 install brew-cask
 cask install appcleaner
+cask install bathyscaphe
 cask install dropbox
 cask install evernote
 cask install kindle
+cask install the-unarchiver
 
 ## rcmdnk/file
 tap rcmdnk/file
