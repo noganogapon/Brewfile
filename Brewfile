@@ -10,6 +10,8 @@ cask install dropbox
 cask install evernote
 cask install kindle
 cask install the-unarchiver
+cask install vagrant
+cask install virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
