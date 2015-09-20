@@ -26,6 +26,7 @@ appstore Growl
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
 appstore Xcode
