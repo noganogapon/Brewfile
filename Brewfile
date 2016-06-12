@@ -3,22 +3,21 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install appcleaner
-cask install bathyscaphe
-cask install dropbox
-cask install evernote
-cask install kindle
-cask install the-unarchiver
-cask install vagrant
-cask install virtualbox
+brew brew-cask
+
+## homebrew/core
+tap homebrew/core
+brew git
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
-# Other Homebrew packages
-install git
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Uninstalling brew-cask... (2,806 files, 1.5M)
+#cask Warning: nothing to list
 
 # App Store applications
 appstore GarageBand
